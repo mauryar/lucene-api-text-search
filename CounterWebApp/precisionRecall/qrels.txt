@@ -1,0 +1,16 @@
+# Format:
+#
+#       qnum   0   doc-name     is-relevant
+#
+#
+
+0 	 0 	 inputFiles\book.xlsx     	 1
+0 	 0 	 inputFiles\Doc1.docx     	 1
+0 	 0 	 inputFiles\sample1.docx     	 1
+0 	 0 	 inputFiles\samppt.pptx     	 1
+0 	 0 	 inputFiles\samrichtext.rtf     	 1
+0 	 0 	 inputFiles\Test1.xml     	 1
+0 	 0 	 inputFiles\Test2.html     	 1
+0 	 0 	 inputFiles\Text1.txt     	 1
+0 	 0 	 inputFiles\Text2.txt     	 1
+0 	 0 	 inputFiles\Text3.txt     	 1

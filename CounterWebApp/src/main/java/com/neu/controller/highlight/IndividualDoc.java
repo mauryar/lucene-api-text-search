@@ -1,0 +1,32 @@
+package com.neu.controller.highlight;
+/**
+ * @author rajan
+ *
+ */
+public class IndividualDoc {
+
+	private double score;
+	private String[] highlightedText;
+	private String docPath;
+	
+	public double getScore() {
+		return score;
+	}
+	public void setScore(double score) {
+		this.score = score;
+	}
+	
+	public String[] getHighlightedText() {
+		return highlightedText;
+	}
+	public void setHighlightedText(String[] highlightedText) {
+		this.highlightedText = highlightedText;
+	}
+	public String getDocPath() {
+		return docPath;
+	}
+	public void setDocPath(String docPath) {
+		this.docPath = docPath;
+	}
+	
+}

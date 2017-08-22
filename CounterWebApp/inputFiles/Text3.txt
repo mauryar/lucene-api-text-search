@@ -1,0 +1,1 @@
+This is not a test roam file. Lucene Core, our flagship sub-project, provides Java-based indexing and search technology, as well as spellchecking, hit highlighting and advanced analysis/tokenization capabilities

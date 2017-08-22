@@ -1,0 +1,6 @@
+<note>
+  <to>Test</to>
+  <from>Lucene document</from>
+  <heading>Reminder</heading>
+  <body>This is not a test file. Lucene Core, our flagship sub-project, provides Java-based indexing and search technology, as well as spellchecking, hit highlighting and advanced analysis/tokenization capabilities</body>
+</note>
